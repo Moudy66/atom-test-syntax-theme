@@ -1,7 +1,7 @@
 {
   "name": "supreme-succotash-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Nothing to see here. This is just a no-op Atom syntax theme used for testing changes to atom.io and apm. 👷",
   "keywords": [
     "syntax",
